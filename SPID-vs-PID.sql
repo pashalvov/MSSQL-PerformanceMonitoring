@@ -1,3 +1,3 @@
 select hostname, hostprocess
 from master..sysprocesses
-where  spid = '56'
+where  spid = 'Укажи_здесь_ID_для_сопоставления' --Введи тут SPID полученный от SQL
